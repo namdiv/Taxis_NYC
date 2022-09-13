@@ -41,3 +41,47 @@ Sería una unidad de negocio nueva y se pretende hacer un análisis preliminar d
 
 - Realizar operaciones básicas de exploración de datos.
 - Graficar y visualizar datos pre-procesados.
+
+## Etapa 04: Limpieza de Datos
+
+- Unificar formatos.
+- Identificar y tratar outliers.
+- Imputar datos faltantes.
+
+## Etapa 05: Procesamiento y Visualización de Datos
+
+- Calcular KPI’s
+- Generar dashboards para presentación de resultados
+
+## Etapa 06: Modelo Predictivo (Machine Learning)
+
+- Generar un modelo de predicción de tarifas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
