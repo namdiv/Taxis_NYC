@@ -1,5 +1,6 @@
 # Taxis NYC Data Analysis &amp; Weather API
 
+<img align="center" alt='Coding' width="700" src="[https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif](https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/03/30/5fa901c4e5b47.jpeg)">
 # Descripción del Proyecto
 
 Surgimiento: empresa de servicios de transporte interesada en invertir en el sector de taxis  taxis amarillos de NYC 
