@@ -35,6 +35,9 @@ Esto correspondería una unidad de negocio nueva y se pretende hacer un análisi
 
 # Etapas del Proyecto
 
+Las etapas que se presentan a continuación, se encuentran desarrolladas en los archivos PG-X.ipynb. Además, en la carpeta "ETL_process_DataWarehouse_Connection_Linux"
+se encuentran los archivos Python que se utilizaron para hacer la descarga y carga automatizada de los Datos, para luego realizar consultas desde SQL a nuestro Data Warehouse.
+
 ## Etapa 01: Diseño del Proyecto
 
 - Definir el objetivo y alcance.
