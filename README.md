@@ -1,6 +1,8 @@
 # Taxis NYC Data Analysis &amp; Weather API
-Video sobre el Proyecto: https://www.youtube.com/watch?v=L3agORgbitQ&ab_channel=XavierVidman
 <img align="center" alt='Coding' width="700" src="https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/03/30/5fa901c4e5b47.jpeg">
+
+# Video presentación del Proyecto
+link: https://www.youtube.com/watch?v=L3agORgbitQ&ab_channel=XavierVidman
 
 # Autores del Proyecto:
 - Xavier Harry Vidman: Project Manager
