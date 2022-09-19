@@ -3,10 +3,10 @@
 <img align="center" alt='Coding' width="700" src="https://www.lavanguardia.com/files/article_main_microformat/uploads/2020/03/30/5fa901c4e5b47.jpeg">
 
 # Autores del Proyecto:
-- Xavier Harry Vidman: Project Manager.
-- Camila de la Paz: Data Analyst.
-- Franco Pes: Data Engineer.
-- Daniel Ramírez: Data Scientist.
+- Xavier Harry Vidman: Project Manager
+- Camila de la Paz: Data Analyst
+- Franco Pes: Data Engineer
+- Daniel Ramírez: Data Scientist
 
 # Descripción del Proyecto
 
