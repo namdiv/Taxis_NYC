@@ -4,9 +4,9 @@
 
 # Descripción del Proyecto
 
-Surgimiento: empresa de servicios de transporte interesada en invertir en el sector de taxis  taxis amarillos de NYC 
+Surgimiento: una empresa de servicios de transporte está interesada en invertir en el sector de taxis, específicamente en los taxis amarillos de NYC.
 
-Sería una unidad de negocio nueva y se pretende hacer un análisis preliminar del movimiento de los taxis de NYC para poder tomar decisiones bien fundamentadas.
+Esto correspondería una unidad de negocio nueva y se pretende hacer un análisis preliminar del movimiento de los taxis de NYC para poder tomar decisiones bien fundamentadas.
 
 # Objetivos Principales
 
@@ -19,7 +19,7 @@ Sería una unidad de negocio nueva y se pretende hacer un análisis preliminar d
 
 # ¿Qué haremos como equipo de Datos?
 
-- Convertir los datos en información, y la información en conocimiento
+- Convertir los datos en información, y la información en conocimiento.
 
 ## Datos -> Información -> Conocimiento
 
@@ -58,31 +58,6 @@ Sería una unidad de negocio nueva y se pretende hacer un análisis preliminar d
 ## Etapa 06: Modelo Predictivo (Machine Learning)
 
 - Generar un modelo de predicción de tarifas
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
