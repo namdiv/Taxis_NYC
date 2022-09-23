@@ -4,8 +4,8 @@
 # Video presentación del Proyecto
 link: https://www.youtube.com/watch?v=L3agORgbitQ&ab_channel=XavierVidman
 
-# Autores del Proyecto:
-- Xavier Harry Vidman: Project Manager
+# Team:
+- Xavier Harry Vidman: Project Manager and Data Engineer
 - Camila de la Paz: Data Analyst
 - Franco Pes: Data Engineer
 - Daniel Ramírez: Data Scientist
